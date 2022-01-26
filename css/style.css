@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+.details {
+    width: 100%;
+    background-color: #f8edf0;
+}
+
+.container {
+    width: 1150px;
+    padding: 50px 15px;
+}
+
+
+
+.details__inner {
+    width: 445px;   
+}
+
+.details__title {
+    font-family: Hind Madurai;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 49px;
+    color: #150101;
+    margin-bottom: 16px;
+}
+
+.details__discribtion {
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #150101;
+    opacity: 0.6;
+    margin-bottom: 35px;
+}
+
+.details__link {
+    background: #D64374;
+    border-radius: 5px;
+    padding: 15px 42px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #fafafa;
+}
+
+.details__img {}
